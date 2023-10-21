@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1697761945 source:e:\materias\4to semestre\estructura de datos\c++\proyecto banco\main.cpp
+	<iostream>
+	<cstdlib>
+	<limits>
+	<windows.h>
+	<math.h>
+	<string>
+	<ctime>
+	<vector>
+	<cctype>
+
